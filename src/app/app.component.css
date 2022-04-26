@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+
+.grid-container {
+  float: left;
+  display: grid;
+  grid-template-columns:  auto auto;
+}

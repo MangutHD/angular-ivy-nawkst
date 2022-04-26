@@ -1,0 +1,14 @@
+.black{
+  background-color: black;
+  width: 500px;
+  height: 500px;
+  visibility: visible;
+}
+
+.blue{
+  background-color: blue;
+  width: 500px;
+  height: 500px;
+  visibility: visible;
+}
+
